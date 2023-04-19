@@ -21,11 +21,15 @@ The CARLA simulator provides a realistic 3D environment for testing autonomous d
 
 ## Results
 
+The initial train video of results of the trained agent's performance are presented in the following clip:
+
+![Training Performance](./assets/1.mp4)
+
 The results of the trained agent's performance are presented in the following chart:
 
-![Training Performance](./images/training_performance.png)
+![Training Performance](./assets/2.png)
 
-As you can see, the trained agent achieves high success rates and travels a significant distance while avoiding obstacles.
+As you can see, the trained agent achieves decent success rates.
 
 ## Conclusion
 
