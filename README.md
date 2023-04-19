@@ -23,7 +23,7 @@ The CARLA simulator provides a realistic 3D environment for testing autonomous d
 
 The initial train video of results of the trained agent's performance are presented in the following clip:
 
-![Training Performance](./assets/1.mp4)
+![Training Performance](./assets/1_new.mp4)
 
 The results of the trained agent's performance are presented in the following chart:
 
