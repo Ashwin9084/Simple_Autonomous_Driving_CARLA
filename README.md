@@ -41,15 +41,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/username/repo.git`
 2. Install the required packages: `pip install -r requirements.txt`
-3. Set up the CARLA simulator: `python setup_carla.py`
-4. Create the environment and agent: `python create_environment.py`
-5. Train the agent: `python train_agent.py`
-6. Evaluate the agent: `python evaluate_agent.py`
+3. Create the environment and agent: `python environment.py`
+4. Train the agent: `python main.py`
 
-## Credits
 
-This project was developed by [Your Name](https://github.com/username).
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
